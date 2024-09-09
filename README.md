@@ -65,17 +65,17 @@ The Excel file should contain the following columns:
 - **Link Capacity**: The capacity of the link (optional for plotting).
 
 ## Screenshots
-Excel sheet column format:
+### Excel sheet column format:
 <img width="710" alt="Network Plotter excel" src="https://github.com/user-attachments/assets/5f0636e7-00b3-4eea-b9e3-ba09bca3fa60">
 
 
-GUI that open once application is running:
+### GUI that open once application is running:
 <img width="202" alt="Network Plotter GUI" src="https://github.com/user-attachments/assets/74b33b07-ebe5-4be6-9c54-de67deb851fc">
 
-Network drawn, but no selection made as yet:
+### Network drawn, but no selection made as yet:
 <img width="752" alt="Network Plotter GUI No Selection" src="https://github.com/user-attachments/assets/02c72de2-620c-484f-af9d-354e76aa8320">
 
-Selection made, Node colour change and paths highlighted:
+### Selection made, Node colour change and paths highlighted:
 <img width="751" alt="Network Plotter GUI With Selection" src="https://github.com/user-attachments/assets/e27023fb-9b64-42f1-8ad8-03f88fb9d184">
 
 
